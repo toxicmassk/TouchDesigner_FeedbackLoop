@@ -2,5 +2,3 @@
 First project in TouchDesigner
 
 
-
-![Uploading FeedBackLoop.png…]()
